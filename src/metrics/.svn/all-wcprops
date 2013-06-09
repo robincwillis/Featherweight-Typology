@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/src/metrics
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/metrics/Test.java
+END
+RuleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/metrics/RuleSet.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/metrics/Rule.java
+END
+TestSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/metrics/TestSet.java
+END

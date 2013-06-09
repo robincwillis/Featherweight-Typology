@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/src/elements
+END
+GUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/elements/GUI.java
+END
+Dimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/elements/Dimension.java
+END
+Surface.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/elements/Surface.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/elements/Point.java
+END
+guiListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/elements/guiListener.java
+END
+Vector3F.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/elements/Vector3F.java
+END
+ControlCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/elements/ControlCanvas.java
+END

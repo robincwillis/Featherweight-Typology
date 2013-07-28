@@ -19,11 +19,3 @@ ___
 This Application is a bit unfinished...
 
 Recently I added a number of different ways in which a space evaluates and rates its position, due to the conflicting values it seems that a space rarely reaches an optimized position, so functionality is needed in which someone can weigh the importance of different values in the optimization and reduce the conflict between them
-
-
-```	            _                          _   _                             
-	           | |  o                  o  | | | | o                   |      
-	 ,_    __  | |      _  _              | | | |     ,   __   __   __|   _  
-	/  |  /  \_|/ \_|  / |/ |  |  |  |_|  |/  |/  |  / \_/    /  \_/  |  |/  
-	   |_/\__/  \_/ |_/  |  |_/ \/ \/  |_/|__/|__/|_/ \/ \___/\__/ \_/|_/|__/
-```
